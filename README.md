@@ -14,11 +14,11 @@
 # How to get started (Windows)
 В настоящее время проект Tank Biathlon использует версию Unreal Engine 4.13.1. Для избежания ошибок, пожалуйста, убедитесь, что у вас последняя стабильная версия Unreal Engine с помощью Epic Games Launcher.
 
-**Downloading the Unreal Tournament project:**
+**Downloading the Tank Biathlon project:**
 - Скачайте проект нажав **Download ZIP** на главной странице репозитория.
 - Распакуйте архив на вашем компьютере в любую папку.  
 
-**Installing the Unreal Tournament project:**
+**Installing the Tank Biathlon project:**
 - Создайте любой проект в Unreal Engine.
 - Переместите ранее разархивированный проект в папку Content в вашем созданном проекте. Пример пути по умолчанию: C:\Users\UserName\Documents\Unreal Projects\ProjectName\Content.
 - Запустите ранее созданный проект с помощью Epic Games Launcher.
