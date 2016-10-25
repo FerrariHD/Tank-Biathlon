@@ -7,6 +7,7 @@
 
 # Required Third Party Software
 **Windows:**
+
 Вам нужен DirectX End-User Runtime. Проверить актуальность библиотек вы можете с помощью DirectX End-User Runtime Web Installer - https://www.microsoft.com/en-us/download/confirmation.aspx?id=35.
 
 # How to get started (Windows)
