@@ -1,5 +1,4 @@
 # Welcome to Tank Biathlon!
----------------------
 Это страница проекта **Tank Biathlon** на GitHub. Tank Biathlon разрабатывается одним человеком, так что поддерживается любая помощь. Вы можете использовать данный проект для своих экспериментов.
 
 Как указано в лицензионном соглашении, данный проект со всеми ресурсами может использоваться только для проектов на основе Unreal Engine.
@@ -7,12 +6,10 @@
 В данные момент имеется базовый геймплей "гонки" с некоторым количеством мишеней.
 
 # Required Third Party Software
----------------------
 **Windows:**
 Вам нужен DirectX End-User Runtime. Проверить актуальность библиотек вы можете с помощью DirectX End-User Runtime Web Installer - https://www.microsoft.com/en-us/download/confirmation.aspx?id=35.
 
 # How to get started (Windows)
----------------------
 В настоящее время проект Tank Biathlon использует Unreal Engine 4.13.1. Для избежания ошибок, пожалуйста, убедитесь, что у вас последняя стабильная версия Unreal Engine с помощью Epic Games Launcher.
 
 **Downloading the Unreal Tournament project:**
