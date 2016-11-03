@@ -12,7 +12,7 @@
 Если вы когда-либо запускали игры, то скорее всего это у вас уже установлено.
 
 # How to get started (Windows)
-В настоящее время проект Tank Biathlon использует версию Unreal Engine 4.13.1. Для избежания ошибок, пожалуйста, убедитесь, что у вас последняя стабильная версия Unreal Engine с помощью Epic Games Launcher.
+В настоящее время проект Tank Biathlon использует версию Unreal Engine 4.13.2. Для избежания ошибок, пожалуйста, убедитесь, что у вас последняя стабильная версия Unreal Engine с помощью Epic Games Launcher.
 
 **Downloading the Tank Biathlon project:**
 - Скачайте проект нажав **Download ZIP** на главной странице репозитория.
